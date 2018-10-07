@@ -256,7 +256,7 @@ Version      : 1.0
             $(".off-canvas-menu").addClass("active");
             $(".offcanves-menu-overlay").addClass("active");
         });
-        $(".menu-close i.fa, .offcanves-menu-overlay, .menu-item-inner li a").on('click', function () {
+        $(".menu-close i.fas, .offcanves-menu-overlay, .menu-item-inner li a").on('click', function () {
             $(".off-canvas-menu").removeClass("active");
             $(".offcanves-menu-overlay").removeClass("active");
         });

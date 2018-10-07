@@ -342,7 +342,7 @@ fieldset {
 .welcome-image-area {
     position: relative;
     height: 100%;
-    background: url(../files/images/bg.jpg);
+    background: url(../files/images/welcome.jpg);
     background-size: cover;
     z-index: 1;
 }
@@ -374,7 +374,6 @@ fieldset {
     color: #fff;
     font-size: 80px;
     font-weight: 700;
-    text-transform: capitalize;
     margin: 0;
 }
 
@@ -383,7 +382,8 @@ fieldset {
     display: inline-block;
     background: rgba(0, 0, 0, .5);
     color: #fff;
-    font-size: 20px;
+    font-size: 60px;
+    font-weight: 700;
     text-transform: capitalize;
     padding: 15px 40px;
     border-radius: 0px 30px 0px 30px;
@@ -536,7 +536,7 @@ fieldset {
     top: 0;
 }
 
-.menu-close i.fa {
+.menu-close i.fas {
     position: absolute;
     left: 0;
     text-align: center;
