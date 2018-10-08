@@ -253,7 +253,7 @@ fieldset {
 .header-text .home-arrow-down {
     text-align: center;
     position: absolute;
-    bottom: -212px;
+    bottom: -202px;
     left: 50%;
     -webkit-transform: translate(-50%, -50%);
     transform: translate(-50%, -50%);
@@ -602,12 +602,12 @@ fieldset {
     font-size: 40px;
     color: #fff;
 }
-ul.about-service{
+ul.about-work{
     padding: 0;
     margin: 0;
     margin-bottom: 50px;
 }
-ul.about-service li {
+ul.about-work li {
 	display: inline-block;
 	border: 1px solid #f1f1f1;
 	margin-right: 12px;
@@ -667,28 +667,28 @@ ul.about-service li {
 * ----------------------------------------------------------------------------------------
 */
 
-.service-area {
+.work-area {
     background: #F2F4EC;
 }
 
-.single-service {
+.single-work {
     text-align: center;
     background: #fff;
     box-shadow: 0px 0px 35px rgba(0, 0, 0, .07);
 }
-.service-icon{
-    background: url(../files/images/service-bg.jpg);
+.work-icon{
+    background: url(../files/images/work-bg.jpg);
     background-size: cover;
     padding: 100px;
 }
-.service-icon i {
+.work-icon i {
     font-size: 50px;
     color: #fff;
 }
-.service-description{
+.work-description{
     padding: 30px;
 }
-.single-service h2 {
+.single-work h2 {
     font-size: 30px;
     text-transform: capitalize;
     margin: 20px 0px;
@@ -698,7 +698,7 @@ ul.about-service li {
     font-weight: 700;
 }
 
-.single-service p {
+.single-work p {
     color: #333;
     font-size: 16px;
 }
