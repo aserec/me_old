@@ -874,21 +874,21 @@ ul.work li.active {
 * ----------------------------------------------------------------------------------------
 */
 
-.blog-area {
+.portfolio-area {
     background: #000;
 }
 
-.single-blog {
+.single-portfolio {
     margin-right: 30px;
     margin-top: 30px;
 }
 
-.single-blog h5 {
+.single-portfolio h5 {
     font-weight: 300;
     font-size: 12px;
 }
 
-.single-blog h3 {
+.single-portfolio h3 {
     color: #333;
     padding: 10px 15px;
     font-size: 10px;
@@ -897,11 +897,11 @@ ul.work li.active {
     letter-spacing: 3px;
 }
 
-.single-blog h2 {
+.single-portfolio h2 {
     margin-top: 0;
 }
 
-.single-blog h2 a {
+.single-portfolio h2 a {
     font-size: 30px;
     margin-top: 0;
     margin-bottom: 20px;
@@ -910,17 +910,17 @@ ul.work li.active {
     color: #000;
 }
 
-.single-blog p {
+.single-portfolio p {
     padding-bottom: 20px;
 }
 
-.blog-description {
+.portfolio-description {
     padding: 20px 30px;
     border: 1px solid #f8f8f8;
     background: #fff;
 }
 
-.blog-area .owl-theme .owl-controls .owl-page span {
+.portfolio-area .owl-theme .owl-controls .owl-page span {
     display: block;
     width: 15px;
     height: 15px;
